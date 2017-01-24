@@ -1,5 +1,5 @@
 # Fixed Point Iteration Method
-**Author: Damodar Rajbhandari(damicristi7@live.com)**
+**Author: Damodar Rajbhandari (damicristi7@live.com)**
 
 ##Main Work
 ```
