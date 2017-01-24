@@ -33,4 +33,6 @@ Here are the list of steps:
 ##Overview
 This code was publicized after presenting the presentation on **[Introduction to Fixed Point Iteration Method and its application](https://figshare.com/articles/Introduction_to_Fixed_Point_Iteration_Method_and_its_application/4285682)** during my B.Sc. Physics 3rd year class at [St. Xavier's College](http://sxc.edu.np/).
 
+##Future Work
+I have made this program using **for loop**. If I have free time someday, I will work for reinventing this program using **while loop**. I will warmly welcome if somebody try to work in while loop using these concepts.
 ###Thanks For Reading!
