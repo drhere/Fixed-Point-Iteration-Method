@@ -40,6 +40,5 @@ This code was publicized after presenting the presentation on **[Introduction to
 
 ## Future Work
 I have made this program using **for loop**. If I have free time someday, I will work for reinventing this program using **while loop**. I will warmly welcome if somebody try to work in while loop using these concepts.
-### Thanks For Reading!
 
-##### [Click Here to go in Home page](https://damicristi.github.io/)
+### Thanks For Reading!
