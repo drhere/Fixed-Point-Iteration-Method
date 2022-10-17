@@ -36,8 +36,12 @@ Here are the list of steps:
 * After differentiation, It will test whether the equation statisfy the convergence 
   theorem of Fixed Point Iteration Method. And then, it will do desire iteration. 
 ```
+
 ## Overview
 This code was an addon to the presentation that I gave during my B.Sc. Physics 3rd year class at [St. Xavier's College](http://sxc.edu.np/).
+
+## Visualization
+You can find the visualization of this method at [Intuition of Fixed Point Iteration Method](https://www.youtube.com/watch?v=XhSsu5P1NdY) and [Usual Intuition of Fixed Point Iteration Method](https://www.youtube.com/watch?v=-bSkR0o0-GU)
 
 ## Future Work
 I have made this program using **for loop**. If I have free time someday, I will work for reinventing this program using **while loop**. I will warmly welcome if somebody try to work in while loop using these concepts.
