@@ -1,5 +1,5 @@
 # Fixed Point Iteration Method
-Author: Damodar Rajbhandari (damicristi7@live.com)
+Author: Damodar Rajbhandari (damodar[AT]physicslog.com)
 
 ## Main Work
 ```
@@ -11,7 +11,9 @@ Concept on Fixed Point Iteration Method. If you haven't yet tasted this method,
 I have created a presentation in this topic. 
 ```
 You can find the presentation file at
-**[Introduction to Fixed Point Iteration Method and its application](https://figshare.com/articles/Introduction_to_Fixed_Point_Iteration_Method_and_its_application/4285682)**. For full fexibility, download the file from there!
+**[Introduction to Fixed Point Iteration Method and its 
+application](Introduction_to_Fixed_Point_Iteration_Method_and_its 
+application.pdf)**. For full fexibility, download the file from there!
 
 ## Aim
 ```
